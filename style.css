@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: auto;
+    background: linear-gradient(to right, #370b58, #262454);
+    color: white;
+    text-align: center;
+    vertical-align: bottom;
+}
+.mainContent{
+    width: 550px;
+    height: auto;
+    margin-bottom: 10%;
+    margin: auto;
+
+}
+.c_border{
+    margin-bottom: 30px;
+    height: 300px;
+    padding: 4px;
+
+    background-color: black;
+}
+.c_block{
+    height: 100%;
+    background-color: white;
+    color: black;
+}
+.b_header{
+    color: purple;
+}
+.rightSideDiv{
+    margin-top: 10px;
+    margin-right: 20px;
+    float: right;
+    clear: both;
+}
+.convInput{
+    width: 300px;
+}
+
+.testbox
+{
+    height: 264px;
+    width: 525px;
+    resize: none;
+    margin: auto;
+    padding: 2;
+}
+.testbox1
+{
+    height: 242px;
+    width: 525px;
+    margin-bottom: 5px;
+    resize: none;
+    padding: 2;
+}
